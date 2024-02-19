@@ -1,0 +1,6 @@
+1. Dataset
+2. Divide the feature based on independent and dependent features
+3. train test split
+4. Standardize the data
+
+
